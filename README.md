@@ -25,11 +25,6 @@
   <a><img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge-square&logo=Vue.js&logoColor=4FC08D"/></a>
   <a><img src="https://img.shields.io/badge/Vuex-grey?style=for-the-badge-square&logo=Vue.js&logoColor=4FC08D"/></a>
 </p> 
-<p>  
-  <a><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge-square&logo=Java&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge-square&logo=Python&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge-square&logo=Spring&logoColor=white"/></a>
- </p> 
  <p> 
   <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge-square&logo=Notion&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge-square&logo=GitHub&logoColor=white"/></a>
