@@ -10,7 +10,7 @@
  ### 경험과 도전을 중요시하는 개발자 이지홍입니다.
   
  ### 👩🏻‍💻Study
-  <p>알고리즘 스터디 </p>
+ <a href="https://github.com/AlgorismTest/coding-test-study"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge-square&logo=Gmail&logoColor=white"/>알고리즘 스터디</a>
   
 <br>
   
