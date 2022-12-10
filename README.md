@@ -3,10 +3,15 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeJiHong&fontSize=90)
   
- ### ✨Front-end Developer✨
-  <p>Hi! There! I'm a FrontEnd developer.</p>
-  <p>Like a rainbow in beautiful harmony with different colors,:rainbow:</p>
-  <p>I like to adapt well anywhere and experience various things.:relaxed:</p>
+  <div align="left">
+    <p>테스트중입니다.</p>
+  </div>
+  
+ ### 경험과 도전을 중요시하는 개발자 이지홍입니다.
+  
+ ### 👩🏻‍💻Study
+  <p>알고리즘 스터디 </p>
+  
 <br>
   
 ### 💌Contact
