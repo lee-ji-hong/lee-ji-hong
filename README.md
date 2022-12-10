@@ -1,5 +1,5 @@
 
-<div align="center">
+
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeJiHong&fontSize=90)
   
@@ -9,32 +9,23 @@
   
  ### 경험과 도전을 중요시하는 개발자 이지홍입니다.
   
- ### 👩🏻‍💻Study
- <a href="https://github.com/AlgorismTest/coding-test-study"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge-square&logo=Gmail&logoColor=white"/>알고리즘 스터디</a>
+ ### ✔study
+ <ul>
+  <li>✍️ <a href="https://github.com/AlgorismTest/coding-test-study">알고리즘 스터디</a> 2022.11~</li>
+    <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~</li>
+  <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~</li>
+  <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">면접 스터디</a> 2022.10~</li>
+</ul>
+  <p></p>
   
 <br>
   
-### 💌Contact
+### ✔️Contact
   <a href="mailto:zhffktkdlekghjsxk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://coding-ocean.tistory.com/"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge-square&logo=Blog&logoColor=white"/></a>
   
  
 <br>
-  
-### ⚡Tech Stack⚡
-
-<p>
-  <a><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge-square&logo=HTML5&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge-square&logo=Javascript&logoColor=F7DF1E"/></a>
-  <a><img src="https://img.shields.io/badge/Css3-blue?style=for-the-badge-square&logo=Css3&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/Vue.js-grey?style=for-the-badge-square&logo=Vue.js&logoColor=4FC08D"/></a>
-  <a><img src="https://img.shields.io/badge/Vuex-grey?style=for-the-badge-square&logo=Vue.js&logoColor=4FC08D"/></a>
-</p> 
- <p> 
-  <a><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge-square&logo=Notion&logoColor=white"/></a>
-  <a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge-square&logo=GitHub&logoColor=white"/></a>
-</p>
-<br><br>
   
 <div >
   
@@ -50,7 +41,7 @@
   
 </div> 
   
-</div>
+
 
   
 
