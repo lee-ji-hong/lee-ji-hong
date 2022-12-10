@@ -3,24 +3,22 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeJiHong&fontSize=90)
   
-  <div align="left">
-    <p>테스트중입니다.</p>
-  </div>
-  
  ### 경험과 도전을 중요시하는 개발자 이지홍입니다.
   
- ### ✔study
+ ### ✔활동
  <ul>
   <li>✍️ <a href="https://github.com/AlgorismTest/coding-test-study">알고리즘 스터디</a> 2022.11~</li>
     <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~</li>
-  <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~</li>
   <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">면접 스터디</a> 2022.10~</li>
+  <li>👨‍👨‍👧‍👧 <a href="https://github.com/LeeJongbokz/interviewPrep">개발자 기술면접테스트 서비스</a> 2022.10~</li>
+  <li>👨‍👨‍👧‍👧 <a href="https://github.com/seo-kyeong-u/cellook-front">셀룩 쇼핑몰 클론 프로젝트</a> 2022.09~2022.10</li>
+  <li>👩🏻‍💻 <a href="https://github.com/lee-ji-hong/weather-application">날씨 어플리케이션</a> 2022.03</li>
+  <li>👨‍👨‍👧‍👧 <a href="https://github.com/lee-ji-hong/homin_team">가전제품 렌탈 서비스</a> 2021.12~2.22.01</li>
 </ul>
-  <p></p>
   
 <br>
   
-### ✔️Contact
+### ✔️소셜
   <a href="mailto:zhffktkdlekghjsxk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://coding-ocean.tistory.com/"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge-square&logo=Blog&logoColor=white"/></a>
   
