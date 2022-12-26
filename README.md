@@ -3,7 +3,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LeeJiHong&fontSize=90)
   
- ### 경험과 도전을 중요시하는 개발자 이지홍입니다.
+ ### 경험과 도전을 중요시하는 개발자 
   
  ### ✔활동
  <ul>
