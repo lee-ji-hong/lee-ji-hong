@@ -8,8 +8,8 @@
  ### ✔활동
  <ul>
   <li>✍️ <a href="https://github.com/AlgorismTest/coding-test-study">알고리즘 스터디</a> 2022.11~</li>
-    <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~</li>
-  <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">면접 스터디</a> 2022.10~</li>
+    <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 스터디</a> 2022.10~2023.02</li>
+  <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">면접 스터디</a> 2022.10~2023.01</li>
   <li>👨‍👨‍👧‍👧 <a href="https://github.com/LeeJongbokz/interviewPrep">개발자 기술면접테스트 서비스</a> 2022.10~</li>
   <li>👨‍👨‍👧‍👧 <a href="https://github.com/seo-kyeong-u/cellook-front">셀룩 쇼핑몰 클론 프로젝트</a> 2022.09~2022.10</li>
   <li>👩🏻‍💻 <a href="https://github.com/lee-ji-hong/weather-application">날씨 어플리케이션</a> 2022.03</li>
