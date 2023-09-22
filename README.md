@@ -18,16 +18,20 @@
 </ul>
   
 <br>
+
+### ✔️프로젝트 회고
+<ul>
+  <li>✍️ <a href="https://coding-ocean.tistory.com/106">홈페이지 리뉴얼 회고</a></li>
+</ul>
+
+<br>
   
 ### ✔️소셜
   <a href="mailto:zhffktkdlekghjsxk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://coding-ocean.tistory.com/"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge-square&logo=Blog&logoColor=white"/></a>
   
  
-### ✔️프로젝트 회고
-<ul>
-  <li>✍️ <a href="https://coding-ocean.tistory.com/106">홈페이지 리뉴얼 회고</a></li>
-</ul>
+
 
 
 
