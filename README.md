@@ -33,7 +33,7 @@
 
 ### ✔️기록
 <ul>
-  <li>✍️ <a href="">공부 흔적</a></li>
+  <li>✍️ <a href="https://bold-spell-0a8.notion.site/febe8f662de647a19a42dc8a10c19e87?pvs=4">공부 흔적</a></li>
 </ul>
 
 <br>
