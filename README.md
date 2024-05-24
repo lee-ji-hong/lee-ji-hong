@@ -8,7 +8,6 @@
  ### ✔활동
  <ul>
    <li>🏆 <a href="https://www.2024tourapi.com/">2024 관광데이터 활용 공모전</a> 2024.05 ~ 진행중 </li>
-   <li>🏆 <a href="https://hanghae99.spartacodingclub.kr/blog/%EC%84%B8%EC%83%81%EC%9D%84-%EA%B5%AC%ED%95%98%EB%8A%94-ai-%ED%95%B4%EC%BB%A4%ED%86%A4-2024-%ED%95%AD%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-19238">항해커톤</a> 2024.05.31 ~ 2024.06.01 </li>
    <li>👨‍👨‍👧‍👧 <a href="https://github.com/Readme-Monster/readme-monster">항해 플러스 프론트엔드 1기</a> 2024.03 ~ 진행중 </li>
   <li>🏆 <a href="https://github.com/public-data-Competition/public-data-competition.git">고용노동 공공데이터 공모전</a> 2023.05~2023.07</li>
   <li>✍️ <a href="https://github.com/AlgorismTest/coding-test-study">알고리즘 스터디</a> 2022.11~2023.02</li>
