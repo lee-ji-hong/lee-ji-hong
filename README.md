@@ -6,7 +6,7 @@
   <li>🏆 <a href="https://github.com/public-data-Competition/public-data-competition.git">고용노동 공공데이터 공모전</a> 2023.05~2023.07</li>
   <li>✍️ <a href="https://github.com/AlgorismTest/coding-test-study">알고리즘 스터디</a> 2022.11~2023.02</li>
   <li>✍️ <a href="https://github.com/fe-book-study/modern-javascript-deep-dive">자바스크립트 딥다이브 스터디</a> 2022.10~2023.02</li>
-  <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">면접 스터디</a> 2022.10~2023.01</li>
+  <li>✍️ <a href="https://github.com/interview-study-front/frontend-interview-question">프론트엔드 지식공유 스터디</a> 2022.10~2023.01</li>
 </ul>
 
  ### ✔교육
