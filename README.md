@@ -28,7 +28,7 @@
   <li>📄 <a href="https://coding-ocean.tistory.com/114">Storybook 도입하기</a></li>
 </ul>
   
- ### ✔️ 기술스택
+ ### 🛠️ 기술스택
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
