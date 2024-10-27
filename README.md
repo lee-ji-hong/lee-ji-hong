@@ -18,7 +18,7 @@
 |------------|------|-----|
 | 항해 플러스 프론트엔드 1기  | 2024.03 ~ 2024.05  |  [🔗 링크](https://github.com/Readme-Monster/readme-monster) |
 | 멋쟁이사자들처럼 x 에이블리 익스턴십  | 2022.01 ~ 2022.02    | [🔗 링크](https://github.com/lee-ji-hong/frontend-mission) |
-| KGIT뱅크 파이썬과 자바를 연계한 머신러닝 활용 개발자 양성         | 2021.06 ~ 2021.12    | [🔗 링크](https://github.com/lee-ji-hong/homin_team)  |
+| KGIT뱅크 파이썬과 자바를 연계한 머신러닝 활용 개발자 양성         | 2021.06 ~ 2021.12    | [🔗 링크](https://github.com/lee-ji-hong/homin_team_v.2)  |
 
 
 ### ✔️ 프로젝트 회고 & 아티클
