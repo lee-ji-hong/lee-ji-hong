@@ -14,7 +14,7 @@
  ### 📚 교육
  | 활동 내용   | 기간  |주관처| 링크 |
 |------------|------|-----|-----|
-| 구름톤  | 2024.12.10 ~ 2024.12.13  |  KaKao x Goorm | [🔗 링크](https://github.com/Readme-Monster/readme-monster) |
+| 구름톤  | 2024.12.10 ~ 2024.12.13  |  KaKao x Goorm | [🔗 링크](https://github.com/orgs/Jeju-thunder/repositories) |
 | 항해 플러스 프론트엔드 1기  | 2024.03 ~ 2024.05  | 스파르타코딩클럽 |  [🔗 링크](https://github.com/Readme-Monster/readme-monster) |
 | 에이블리 익스턴십  | 2022.01 ~ 2022.02    | 멋쟁이사자처럼 | [🔗 링크](https://github.com/lee-ji-hong/frontend-mission) |
 | 파이썬과 자바를 연계한 머신러닝 활용 개발자 양성         | 2021.06 ~ 2021.12    | KGIT뱅크 | [🔗 링크](https://github.com/lee-ji-hong/homin_team_v.2)  |
