@@ -22,6 +22,7 @@
 
 ### ✔️ 프로젝트 회고 & 아티클
 <ul>
+  <li>✏️ <a href="https://bold-spell-0a8.notion.site/febe8f662de647a19a42dc8a10c19e87">개인 공부를 기록합니다</a></li>
   <li>📄 <a href="https://coding-ocean.tistory.com/106">홈페이지 리뉴얼 회고</a></li>
   <li>📄 <a href="https://coding-ocean.tistory.com/114">Storybook을 활용하여 디자인 시스템 구축하기</a></li>
 </ul>
