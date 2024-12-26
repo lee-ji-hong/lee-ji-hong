@@ -22,9 +22,8 @@
 
 ### ✔️ 프로젝트 회고 & 아티클
 <ul>
-  <li>✍️ <a href="https://bold-spell-0a8.notion.site/febe8f662de647a19a42dc8a10c19e87?pvs=4">공부 흔적</a></li>
   <li>📄 <a href="https://coding-ocean.tistory.com/106">홈페이지 리뉴얼 회고</a></li>
-  <li>📄 <a href="https://coding-ocean.tistory.com/114">Storybook 도입하기</a></li>
+  <li>📄 <a href="https://coding-ocean.tistory.com/114">Storybook을 활용하여 디자인 시스템 구축하기</a></li>
 </ul>
   
  ### 🛠️ 기술스택
