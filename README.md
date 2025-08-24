@@ -6,8 +6,8 @@
 
 ### 포트폴리오
 
-- [🔗 정적 ver ](https://ji-hong.kro.kr/)
-- [🔗 인터렉션 ver ](https://ji-hong.kro.kr/portfolio)
+- [🔗 정적 사이트 ver ](https://ji-hong.kro.kr/)
+- [🔗 인터렉션 사이트 ver ](https://ji-hong.kro.kr/portfolio)
 
  ### 🏆 수상
  
